@@ -1,0 +1,16 @@
+fist_1: xc strong
+fist_2: xc middle
+fist_3: xc weak
+static: xc only hand and wrist remain static
+wavein_1: xc strong
+wavein_2: xc middle
+wavein_3: xc weak
+waveout_1: xc strong
+waveout_2: xc middle
+waveout_3: xc weak
+doubletap_1: xc strong
+doubletap_2: xc middle
+doubletap_3: xc weak
+spread_1: xc strong
+spread_2: xc middle
+spread_3: xc weak
